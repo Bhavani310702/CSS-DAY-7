@@ -1,0 +1,78 @@
+.b2 {
+  border: solid;
+  height: fit-content;
+  width: 680px;
+}
+#b1 {
+  display: flex;
+  background-color: black;
+  flex-direction: column-r;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+#b3:hover {
+  border: 3px solid red;
+}
+#b3 {
+  display: flex;
+  height: 200px;
+  width: fit-content;
+  background-color: grey;
+}
+h4 {
+  margin-top: 180px;
+  margin-left: -90px;
+}
+img {
+  height: 100px;
+  padding: 35px;
+  box-shadow: 10px ;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+#svg {
+  width: 30px;
+  margin-top: 170px;
+}
+#b4 {
+  display: flex;
+  height: 200px;
+  background-color: grey;
+  box-shadow: 10px ;
+}
+#b4:hover {
+  border: 3px solid green;
+}
+#icon{
+border: 2px solid black;
+width: 682px;
+height: 30px;
+background-color: grey;
+}
+p{
+  margin-left:230px;
+  margin-top:-170px;
+}
+#p1 #svg{
+  margin-left:80px;
+  margin-top:122px;
+
+}
+#p2 #svg{
+  margin-left: 150px;
+  margin-top: 118px;
+}
+#p3 #svg{
+  margin-left: 220px;
+  margin-top:120px ;
+}
+#p4 #svg{
+  margin-left: 360px;
+  margin-top: 120px;
+}
+#p5 #svg{
+  margin-left: 290px;
+  margin-top: 35px;
+}
+ 
